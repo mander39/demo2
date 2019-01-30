@@ -1,2 +1,2 @@
 Test file for merge conflict 
-Edit this line 
+Edit this line - edit from Michael 
