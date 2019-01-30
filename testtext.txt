@@ -1,2 +1,2 @@
 Test file for merge conflict 
-Edit this line, dsfghjkl
+Edit this line - edit from Tom
